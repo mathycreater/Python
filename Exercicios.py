@@ -18,28 +18,6 @@ else:
 Faça um programa que receba duas notas digitadas pelo usuário. 
 Se a nota for maior ou igual a seis, escreva aprovado, 
 senão escreva reprovado.   
-
-#Rapidao tentar aqui
-#tem que usar só o que ele passou até agora, pelo menos
-#conseguir resolver só com o basicão
-# is, or, and, if, else, elif, ==, essas parada
-# porra de lógica é essa do python que não to entendendo mano
-#so converter pra int nesse caso, alias, tem que ser float
-#pq na real o input, de forma geral so recebe string, ai a gnt tem que fazer essa conversão, é o que te digo das desvantagens de uma linguagem nao ser fortemente tipada
-#So tentar uma parada aqui
-#por que o float funfa e o int não?
-#o int funfa sim, sq o float vc pode botar valores quebrados, ex.: 6.8...
-# to falando merda, nota é quebrada
-# saquei agora 
-# se liga, caso vc queira tratar a principio quando o cara botar um a string tem que ser um try catch mesmo
-#except?
-
-
-#ele nao emeio que trata a exceção sem parar a aplicação, é como se fosse o catch do c# (dei uma pesquisada aqui), tipo, eu acho que deve existir alguma forma melhor de tratar isso
-
-#Oq eu fiz ai, antes de entrar no try excerpt, eu coloquei o algorítimo da nota em uma função, então no try eu so tento executar a função, caso de algum erro ele cai no exerpt, exibe a mensagem e chama a função denovo.
-
-#show mlk
 """
 
 def inserirNota():
@@ -55,10 +33,6 @@ except:
   print('Favor inserir um número')
   inserirNota()
 
-
-# malz, tinha caido a net la no trabalho... dedepois olha o wtsp la wue expliquei as paradas por audio... tu é meu orgulho mesmo, ta puto ai no python hahaha vlw
-
-#ja é, vo olhar lá, to quebrando a cabeça aqui hfuahfaf
 
 # AX² + BX + C 
 """
